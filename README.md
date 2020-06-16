@@ -48,40 +48,29 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### ⚔️ Back End
 
 ```bash
-# Clone este repositório
 $ git clone https://github.com/deilsonmartins/Ecoleta
 
-# Acesse a pasta do projeto no terminal/cmd
 $ cd Ecoleta
 
-# Vá para a pasta server
 $ cd server
 
-# Instale as dependências
 $ yarn
 
-# Execute a aplicação em modo de desenvolvimento
 $ yarn dev
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 ```
-
 ### 🛡 Aplicação Web
 
 ```bash
-# Clone este repositório
 $ git clone https://github.com/deilsonmartins/Ecoleta
 
-# Acesse a pasta do projeto no seu terminal/cmd
 $ cd Ecoleta
 
-# Vá para a pasta da aplicação Front End
 $ cd web
 
-# Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
 $ npm run start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
@@ -90,19 +79,14 @@ $ npm run start
 ### 📱Aplicação Mobile 
 
 ```bash
-# Clone este repositório
 $ git clone https://github.com/deilsonmartins/Ecoleta
 
-# Acesse a pasta do projeto no seu terminal/cmd
 $ cd Ecoleta
 
-# Vá para a pasta da aplicação Front End
 $ cd mobile
 
-# Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
 $ expo start
 
 ```
