@@ -14,7 +14,7 @@
 </p>
 
 
-## 💻 Sobre o projeto
+## 💻 Sobre o Projeto
 
 ♻️ Ecoleta - é uma forma de conectar pessoas que precisam descartar seus resíduos de maneira ecológica com empresas coletoras de resíduos.
 
@@ -34,16 +34,18 @@ O layout da aplicação está disponível no Figma:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- expo
-- nodejs
-- reactjs
-- typescript
+- **NodeJS** — Um interpretador de javascript assíncrono
+- **Express** - Estrutura para desenvolvimento de Backend em Nodejs
+- **Sqlite3** - Banco de dados relacional
+- **React** — Uma biblioteca para construir interfaces
+- **Expo** — Gerenciador para criação de apps nativos
+- **typescript** — Tipagem em javascript
 
-## 🚀 Como executar o projeto
+## 🚀 Execução do Projeto
 
 💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
 
-### 🎲 Rodando o Back End (servidor)
+### ⚔️ Rodando o Back End
 
 ```bash
 # Clone este repositório
@@ -64,7 +66,7 @@ $ yarn dev
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 ```
 
-### 🧭 Rodando a aplicação web (Front End)
+### 🛡 Rodando a aplicação web
 
 ```bash
 # Clone este repositório
