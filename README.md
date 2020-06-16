@@ -45,7 +45,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
 
-### ⚔️ Rodando o Back End
+### ⚔️ Back End
 
 ```bash
 # Clone este repositório
@@ -66,7 +66,7 @@ $ yarn dev
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 ```
 
-### 🛡 Rodando a aplicação web
+### 🛡 Aplicação Web
 
 ```bash
 # Clone este repositório
@@ -87,7 +87,7 @@ $ npm run start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
-### 📱Rodando a aplicação mobile 
+### 📱Aplicação Mobile 
 
 ```bash
 # Clone este repositório
